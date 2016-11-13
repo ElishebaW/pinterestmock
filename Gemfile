@@ -17,6 +17,8 @@ gem 'aws-sdk', '~> 2.6', '>= 2.6.18'
 group :development, :test do
 gem 'byebug'
 gem 'sqlite3', '1.3.9'
+gem 'jquery-turbolinks', '~> 2.1'
+gem 'masonry-rails', '~> 0.2.4'
 end
 
 group :development do
